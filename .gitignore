@@ -1,0 +1,9 @@
+# Virtual environment
+etl_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database file
+sales.db
